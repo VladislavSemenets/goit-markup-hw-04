@@ -295,13 +295,9 @@ img {
 }
 .team-social-list {
 	display: flex;
-	flex-direction: row;
 	justify-content: center;
 	align-items: center;
 	gap: 24px;
-
-	width: 232px;
-	height: 40px;
 }
 .team-social-item {
 	width: 40px;
