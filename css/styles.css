@@ -492,6 +492,7 @@ img {
 	display: flex;
 	flex-wrap: wrap;
 	gap: var(--basic-margin);
+	margin-bottom: 120px;
 }
 .links-item {
 	margin-bottom: 48px;
