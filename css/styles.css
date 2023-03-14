@@ -500,9 +500,7 @@ padding: 120px 0;
 .links-item {
 	row-gap: 48px;
 }
-.links-item:nth-last-child(n+7) {
-	margin-bottom: 0;
-}
+
 .links-item:hover,
 .links-item:focus {
 	box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
